@@ -31,7 +31,8 @@ A modern, responsive social media web application built with **React**, **Vite**
 
 🔗 **View Project:**  
 
- https://social-media-programmervaishnavis-projects.vercel.app/
+ https://vaishnavi-project-social-media.vercel.app/
+ 
 ---
 
 ## 📥 Installation & Setup
