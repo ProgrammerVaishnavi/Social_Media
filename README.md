@@ -30,8 +30,8 @@ A modern, responsive social media web application built with **React**, **Vite**
 ## 🌐 Live Demo
 
 🔗 **View Project:**  
-https://your-vercel-link.vercel.app
 
+ https://social-media-programmervaishnavis-projects.vercel.app/
 ---
 
 ## 📥 Installation & Setup
